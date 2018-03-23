@@ -40,7 +40,7 @@ public class Solution {
 	private static final Scanner scan = new Scanner(System.in);
 
 	public static void main(String[] args) throws IOException {
-//		BufferedWriter bw = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
+		BufferedWriter bw = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
 		System.out.println("Enter matrix order");
 		int n = Integer.parseInt(scan.nextLine().trim());
 
@@ -57,11 +57,11 @@ public class Solution {
 		}
 
 		int result = diagonalDifference(a);
-		System.out.println(result);
+//		System.out.println(result);
 
-//		bw.write(String.valueOf(result));
-//		bw.newLine();
-//
-//		bw.close();
+		bw.write(String.valueOf(result));
+		bw.newLine();
+
+		bw.close();
 	}
 }
