@@ -7,3 +7,4 @@ Easy 5. Very Big Sum - summing up large numbers
 Easy 6. Plus Minus - https://www.hackerrank.com/challenges/plus-minus/problem
 Med  7. StairCasePattern - https://www.hackerrank.com/challenges/staircase/problem
 Easy 8. MaxMinSubsetSum - https://www.hackerrank.com/challenges/mini-max-sum/problem; updated with optimal soln
+Med  9. ExtraLongFactorial - https://www.hackerrank.com/challenges/extra-long-factorials/problem; Got optimal
