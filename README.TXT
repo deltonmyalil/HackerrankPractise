@@ -5,3 +5,4 @@ Hackerrank Problems
 4. String Encryption - https://www.hackerrank.com/challenges/encryption/problem - 10 out of 13 test case success, need to redo
 5. Very Big Sum - summing up large numbers
 6. Plus Minus - https://www.hackerrank.com/challenges/plus-minus/problem
+7. StairCasePattern - https://www.hackerrank.com/challenges/staircase/problem
