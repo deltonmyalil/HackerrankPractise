@@ -8,3 +8,5 @@ Easy 6. Plus Minus - https://www.hackerrank.com/challenges/plus-minus/problem
 Med  7. StairCasePattern - https://www.hackerrank.com/challenges/staircase/problem
 Easy 8. MaxMinSubsetSum - https://www.hackerrank.com/challenges/mini-max-sum/problem; updated with optimal soln
 Med  9. ExtraLongFactorial - https://www.hackerrank.com/challenges/extra-long-factorials/problem; Got optimal
+Easy10. Birthday Candles - https://www.hackerrank.com/challenges/birthday-cake-candles/problem; O(n) - optimal
+Med 11. Time Conversion - https://www.hackerrank.com/challenges/time-conversion/problem; O(1) constant time
