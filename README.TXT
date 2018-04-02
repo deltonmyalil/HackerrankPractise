@@ -10,3 +10,4 @@ Easy 8. MaxMinSubsetSum - https://www.hackerrank.com/challenges/mini-max-sum/pro
 Med  9. ExtraLongFactorial - https://www.hackerrank.com/challenges/extra-long-factorials/problem; Got optimal
 Easy10. Birthday Candles - https://www.hackerrank.com/challenges/birthday-cake-candles/problem; O(n) - optimal
 Med 11. Time Conversion - https://www.hackerrank.com/challenges/time-conversion/problem; O(1) constant time
+Easy12. EvenOdd String - https://www.hackerrank.com/challenges/30-review-loop/problem; O(nm) solution where n is number of test cases and m is worst case length of string

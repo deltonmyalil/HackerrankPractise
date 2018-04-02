@@ -1,5 +1,4 @@
 package time_conversion;
-
 import java.util.Scanner;
 
 public class Solution {
