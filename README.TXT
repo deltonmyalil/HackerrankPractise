@@ -13,3 +13,5 @@ Med 11. Time Conversion - https://www.hackerrank.com/challenges/time-conversion/
 Easy12. EvenOdd String - https://www.hackerrank.com/challenges/30-review-loop/problem; O(nm) solution where n is number of test cases and m is worst case length of string
 Easy13. ArrayRev - 30 days of code - very easy - no big deal
 Easy14. MapsAndDict - name phone number lookup - 30 days of code - very easy - no big deal
+Easy15. RecursionFact - 30 days of code - very easy - just to complete challenge
+Med 16. ConvertToBinaryAndCountMaximumConsecutiveOnes - https://www.hackerrank.com/challenges/30-binary-numbers/problem
