@@ -11,3 +11,5 @@ Med  9. ExtraLongFactorial - https://www.hackerrank.com/challenges/extra-long-fa
 Easy10. Birthday Candles - https://www.hackerrank.com/challenges/birthday-cake-candles/problem; O(n) - optimal
 Med 11. Time Conversion - https://www.hackerrank.com/challenges/time-conversion/problem; O(1) constant time
 Easy12. EvenOdd String - https://www.hackerrank.com/challenges/30-review-loop/problem; O(nm) solution where n is number of test cases and m is worst case length of string
+Easy13. ArrayRev - 30 days of code - very easy - no big deal
+Easy14. MapsAndDict - name phone number lookup - 30 days of code - very easy - no big deal
