@@ -23,6 +23,8 @@ TODO PERSONAL PROBLEMS:
 1.
 Find the CRC for a given message for a given generator polynomial and then find the final message to be transmitted
 Learned the logic - long binary division with XOR for repeated sub. Noted in Notebook4 - page: Feb1
+Testcase: message: 11001001; CRC Generator: x^3 + 1;
+        output: CRC: 011; message to be transmitted: 11001001011
 
 2.
 Given Subnet Mask in dotted decimal format and a Class of IP, find the maximum no of subnets, maximum number of IPs per subnet and maximum number of hosts configurable per subnet
