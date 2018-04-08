@@ -18,3 +18,12 @@ Easy15. RecursionFact - 30 days of code - very easy - just to complete challenge
 Med 16. ConvertToBinaryAndCountMaximumConsecutiveOnes - https://www.hackerrank.com/challenges/30-binary-numbers/problem; O(n) done in single loop, single traversal. Edit: Used Boolean ArrayList. Saved Space.
 Hard17. 2DimArrayMaxHourglassSum - https://www.hackerrank.com/challenges/30-2d-arrays/problem - HOLY CRAP this was hard. Finally got it. They also used -ve numbers in test cases. Initialized maxsum to -2147483648 instead of 0 to get that testcase correct.
 Easy18. RankCalcUsingInheritance - https://www.hackerrank.com/challenges/30-inheritance/problem - too easy
+
+TODO PERSONAL PROBLEMS:
+1.
+Find the CRC for a given message for a given generator polynomial and then find the final message to be transmitted
+Learned the logic - long binary division with XOR for repeated sub. Noted in Notebook4 - page: Feb1
+
+2.
+Given Subnet Mask in dotted decimal format and a Class of IP, find the maximum no of subnets, maximum number of IPs per subnet and maximum number of hosts configurable per subnet
+Learned Logic - Notebook4 - page: Feb6
