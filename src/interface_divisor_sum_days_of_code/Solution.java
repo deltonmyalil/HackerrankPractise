@@ -6,7 +6,7 @@ interface AdvancedArithmetic {
 	int divisorSum(int n);
 }
 
-class Calculator implements AdvancedArithmetic {
+class Calculator implements AdvancedArithmetic {  //has to define the method in interface
 	@Override
 	public int divisorSum(int n) {
 		int sum = 0;
