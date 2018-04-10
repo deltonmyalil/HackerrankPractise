@@ -14,12 +14,12 @@ public class Solution {
 				a[i][j] = aItem;
 			}
 		}
-//		for (int i = 0; i < 6; i++) { //block to print 2d 6x6 array
-//			for (int j = 0; j < 6; j++) {
-//				System.out.print(a[i][j]);
-//			}
-//			System.out.println();
-//		} //no need to print as hackerrank will reject the output
+		for (int i = 0; i < 6; i++) { //block to print 2d 6x6 array
+			for (int j = 0; j < 6; j++) {
+				System.out.print(a[i][j]);
+			}
+			System.out.println();
+		} //no need to print as hackerrank will reject the output
 		int sum = 0;
 		int[][] submatrix = new int[3][3];
 		int pivotI = 0, pivotJ = 0, maxSum = -2147483648;

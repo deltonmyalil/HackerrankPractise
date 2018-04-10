@@ -1,7 +1,4 @@
 package scope_problem_maximum_difference;
-
-import java.util.ArrayList;
-
 public class Difference {
 	private int[] elements;
 	public int maximumDifference;

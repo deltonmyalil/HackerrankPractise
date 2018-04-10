@@ -20,6 +20,11 @@ Hard17. 2DimArrayMaxHourglassSum - https://www.hackerrank.com/challenges/30-2d-a
 Easy18. RankCalcUsingInheritance - https://www.hackerrank.com/challenges/30-inheritance/problem - too easy
 Easy19. AbstractClassAndInterfaceChallenge - https://www.hackerrank.com/challenges/30-abstract-classes/problem
 Easy20. ScopeProblemMaximumDifference - https://www.hackerrank.com/challenges/30-scope/problem
+Easy21. LinkedListRecursionDaysOfCode - https://www.hackerrank.com/challenges/30-linked-list/problem
+Easy22. StringExceptionDaysOfCode - very easy, no big deal
+Easy23. ExceptionExponentiation - very easy, no big deal
+Med 24. QueueStackPalindrome - https://www.hackerrank.com/challenges/30-queues-stacks/problem
+Easy25. InterfaceDivisorSum - https://www.hackerrank.com/challenges/30-interfaces/problem
 
 TODO PERSONAL PROBLEMS:
 1.
