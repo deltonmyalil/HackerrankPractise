@@ -28,6 +28,7 @@ Easy25. InterfaceDivisorSum - https://www.hackerrank.com/challenges/30-interface
 Med 26. MultiplePrimeFactorization - https://www.hackerrank.com/contests/infinitum11/challenges/prime-factorization-2
 Hard27. TrailingZeroesInFactorial - https://www.hackerrank.com/contests/feutechcodejam2015/challenges/try-and-catch-exceptions-problem-c  - Time Limit Exceeded in 5 testcases
 Easy28: GenericsTrialDaysOfCode - https://www.hackerrank.com/challenges/30-generics/problem
+Med 29: BinarySearchTreeHeight - https://www.hackerrank.com/challenges/30-binary-search-trees/forum
 
 TODO PERSONAL PROBLEMS:
 1.
