@@ -23,7 +23,7 @@ public class Solution {
 				maxnum = numbers[i];
 		}
 
-		//prime generation
+		//prime generation and storage in Linked List
 		List<Integer> primeList = new LinkedList<>();
 		for (int i = 2; i < maxnum; i++) {
 			if (isPrime(i))

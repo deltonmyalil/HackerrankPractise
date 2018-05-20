@@ -25,6 +25,8 @@ Easy22. StringExceptionDaysOfCode - very easy, no big deal
 Easy23. ExceptionExponentiation - very easy, no big deal
 Med 24. QueueStackPalindrome - https://www.hackerrank.com/challenges/30-queues-stacks/problem
 Easy25. InterfaceDivisorSum - https://www.hackerrank.com/challenges/30-interfaces/problem
+Med 26. MultiplePrimeFactorization - https://www.hackerrank.com/contests/infinitum11/challenges/prime-factorization-2
+Hard27. TrailingZeroesInFactorial - https://www.hackerrank.com/contests/feutechcodejam2015/challenges/try-and-catch-exceptions-problem-c  - Time Limit Exceeded in 5 testcases
 
 TODO PERSONAL PROBLEMS:
 1.
