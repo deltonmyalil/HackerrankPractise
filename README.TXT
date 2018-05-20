@@ -27,6 +27,7 @@ Med 24. QueueStackPalindrome - https://www.hackerrank.com/challenges/30-queues-s
 Easy25. InterfaceDivisorSum - https://www.hackerrank.com/challenges/30-interfaces/problem
 Med 26. MultiplePrimeFactorization - https://www.hackerrank.com/contests/infinitum11/challenges/prime-factorization-2
 Hard27. TrailingZeroesInFactorial - https://www.hackerrank.com/contests/feutechcodejam2015/challenges/try-and-catch-exceptions-problem-c  - Time Limit Exceeded in 5 testcases
+Easy28: GenericsTrialDaysOfCode - https://www.hackerrank.com/challenges/30-generics/problem
 
 TODO PERSONAL PROBLEMS:
 1.
